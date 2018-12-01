@@ -1,0 +1,15 @@
+[package]
+name = "proc-macro-faithful-display"
+version = "0.1.0"
+authors = ["Dimitri Sabadie <dimitri.sabadie@gmail.com>"]
+description = "A Display implementation for proc-macro types more faithful to the input stream."
+keywords = ["proc-macro"]
+categories = ["development-tools::procedural-macro-helpers"]
+homepage = "https://github.com/phaazon/proc-macro-faithful-display"
+repository = "https://github.com/phaazon/proc-macro-faithful-display"
+documentation = "https://docs.rs/proc-macro-faithful-display"
+readme = "README.md"
+edition = "2018"
+
+[badges]
+travis-ci = { repository = "phaazon/proc-macro-faithful-display", branch = "master" }
